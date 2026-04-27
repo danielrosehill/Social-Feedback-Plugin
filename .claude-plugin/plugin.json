@@ -1,0 +1,12 @@
+{
+  "name": "social-feedback",
+  "version": "1.0.0",
+  "description": "Check what people are actually saying about a topic, product, or provider by searching curated social-discourse sources (Reddit, Hacker News, Stack Exchange, Trustpilot, YouTube, Lobsters).",
+  "author": {
+    "name": "Daniel Rosehill",
+    "url": "https://github.com/danielrosehill"
+  },
+  "repository": "https://github.com/danielrosehill/Social-Feedback-Plugin",
+  "license": "MIT",
+  "keywords": ["research", "social-discourse", "reviews", "search"]
+}
