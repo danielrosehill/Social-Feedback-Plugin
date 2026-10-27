@@ -1,6 +1,6 @@
 {
   "name": "social-feedback",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Check what people are actually saying about a topic, product, or provider by searching curated social-discourse sources (Reddit, Hacker News, Stack Exchange, Trustpilot, YouTube, Lobsters).",
   "author": {
     "name": "Daniel Rosehill",
