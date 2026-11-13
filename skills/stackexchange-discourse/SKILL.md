@@ -5,7 +5,7 @@ description: Search the Stack Exchange network (Stack Overflow, Server Fault, Su
 
 # Stack Exchange Discourse
 
-> TODO: Daniel will fill in detailed instructions.
+> TODO: detailed instructions to be added.
 
 ## Why Stack Exchange
 

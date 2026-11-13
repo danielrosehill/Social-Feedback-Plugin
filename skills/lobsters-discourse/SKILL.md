@@ -5,7 +5,7 @@ description: Search Lobsters (lobste.rs) for high signal-to-noise discourse on d
 
 # Lobsters Discourse
 
-> TODO: Daniel will fill in detailed instructions.
+> TODO: detailed instructions to be added.
 
 ## Why Lobsters
 

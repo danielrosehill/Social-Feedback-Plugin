@@ -5,7 +5,7 @@ description: Search YouTube for review videos and check the comment sections for
 
 # YouTube Reviews
 
-> TODO: Daniel will fill in detailed instructions.
+> TODO: detailed instructions to be added.
 
 ## Why YouTube
 

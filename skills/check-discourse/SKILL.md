@@ -5,7 +5,7 @@ description: Orchestrator — when the user wants to know "what do people say ab
 
 # Check Discourse (orchestrator)
 
-> TODO: Daniel will fill in detailed instructions.
+> TODO: detailed instructions to be added.
 
 ## Purpose
 

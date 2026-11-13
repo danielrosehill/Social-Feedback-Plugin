@@ -5,7 +5,7 @@ description: Search Trustpilot for consumer reviews of a business, service, or p
 
 # Trustpilot Reviews
 
-> TODO: Daniel will fill in detailed instructions.
+> TODO: detailed instructions to be added.
 
 ## Why Trustpilot
 

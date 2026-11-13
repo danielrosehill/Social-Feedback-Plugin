@@ -5,7 +5,7 @@ description: Search Hacker News (via the Algolia HN API or site search) for tech
 
 # Hacker News Discourse
 
-> TODO: Daniel will fill in detailed instructions.
+> TODO: detailed instructions to be added.
 
 ## Why HN
 
