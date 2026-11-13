@@ -20,7 +20,7 @@ Reddit blocks agents. Each of these failed on 2026-10-27, so don't spend a turn 
 | Exa with `includeDomains: ["reddit.com"]` | 0 results (Reddit is not in Exa's index) |
 | Claude in Chrome | "This site is not allowed due to safety restrictions" |
 
-What works: the Apify actor **`trudax/reddit-scraper-lite`**, through `scripts/reddit_scrape.py` in this skill. It needs `APIFY_TOKEN` in the environment (Daniel's machines: Infisical project `residence`, so run it under `with-secrets`).
+What works: the Apify actor **`trudax/reddit-scraper-lite`**, through `scripts/reddit_scrape.py` in this skill. It needs `APIFY_TOKEN` in the environment; supply it from your own secrets manager.
 
 **Cost:** about $0.004 per item, where posts and comments both count. The 400-item pull for the episode below cost $1.63. `--max-items` is the cost cap, and 200–400 is enough for one topic.
 
@@ -31,7 +31,7 @@ What works: the Apify actor **`trudax/reddit-scraper-lite`**, through `scripts/r
 3. Run it:
 
    ```bash
-   with-secrets python3 <skill-dir>/scripts/reddit_scrape.py \
+   python3 <skill-dir>/scripts/reddit_scrape.py \
      --sub LocalLLaMA --sub MachineLearning --query "runpod vast" --query "modal fine-tune" \
      --keyword runpod --keyword vast --keyword modal \
      --time year --max-items 300 --out /tmp/reddit-<slug>/items.json
